@@ -1,5 +1,5 @@
 Hi there, I am Sipho Patrick Maredi 👋
-Senior Security Analyst| Junior DevOps Engineer 
+Senior Security Analyst | Junior DevOps Engineer 
 
 Welcome to my GitHub profile! I’m a beginner in DevOps, bringing over two years of experience as a cybersecurity analyst. My background in cybersecurity has equipped me with a solid foundation in security best practices and threat analysis, which I’m excited to integrate into my DevOps journey. I'm passionate about expanding my knowledge and skills in DevOps and look forward to contributing to projects, learning new tools, and collaborating with other developers to build efficient, secure solutions
 Tech Stack
@@ -20,7 +20,7 @@ Tech Stack
 
 👯 I'm looking to collaborate on
 
-    Open-source projects related to DevOps, cloud-native technologies.
+    Open-source projects related to DevOps, and cloud-native technologies.
 
 📫 How to reach me
 
